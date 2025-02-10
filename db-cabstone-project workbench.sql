@@ -1,1 +1,1 @@
-call addvalidbooking('2022-12-17',6);select*from bookings;
+call deletebooking(4);
