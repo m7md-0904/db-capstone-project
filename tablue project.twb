@@ -3155,8 +3155,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='17' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='16' param='vert' type-v2='layout-flow' w='98400' x='800' y='1000'>
+            <zone h='100000' id='19' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98000' id='18' param='vert' type-v2='layout-flow' w='98400' x='800' y='1000'>
                 <zone fixed-size='280' h='49000' id='3' is-fixed='true' name='Customers Sales' w='98400' x='800' y='1000'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -3190,7 +3190,7 @@
     </dashboard>
   </dashboards>
   <windows saved-dpi-scale-factor='1.25' source-height='37'>
-    <window class='worksheet' name='Customers Sales'>
+    <window class='worksheet' maximized='true' name='Customers Sales'>
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -3227,7 +3227,7 @@
       </viewpoint>
       <simple-id uuid='{09BDD126-92A0-4DC9-9C11-4A3B4EB6C533}' />
     </window>
-    <window class='worksheet' maximized='true' name='Profit Chart'>
+    <window class='worksheet' name='Profit Chart'>
       <cards>
         <edge name='left'>
           <strip size='160'>
